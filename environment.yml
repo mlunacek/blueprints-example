@@ -1,0 +1,4 @@
+name: blueprints
+dependencies:
+- python=3.6
+- flask
